@@ -1,1 +1,2 @@
-console.log("Estoy trabajando en TypeScript");
+"use strict";
+console.log("Hola mundo mi primer programa en TypeScript");

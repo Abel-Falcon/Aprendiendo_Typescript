@@ -1,1 +1,1 @@
-console.log("Hola mundo en TypeScript");
+console.log("Hola mundo mi primer programa en TypeScript");
